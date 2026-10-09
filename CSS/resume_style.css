@@ -1,0 +1,40 @@
+h2{
+    color: royalblue;
+    font-weight: bold;
+    font-style: italic;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+#about{
+    color: gray;
+    font-style: italic;
+}
+#contact{
+    color: gray;
+}
+
+h3{
+    font-style: italic;
+}
+
+li{
+    color: gray;
+}
+
+.project{
+    color: chocolate;
+}
+
+.proj_head{
+    color: chocolate;
+}
+
+th{
+    font-style: italic;
+}
+td{
+    font-style: italic;
+    color: gray;
+}
